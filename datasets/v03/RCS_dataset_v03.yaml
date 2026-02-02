@@ -1,0 +1,7 @@
+train: v03/train/images
+val: v03/valid/images
+test: v03/test/images
+
+# class names
+names:
+  0: "scale"
