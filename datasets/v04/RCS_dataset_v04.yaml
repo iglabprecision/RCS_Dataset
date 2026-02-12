@@ -1,7 +1,0 @@
-train: v04/train/images
-val: v04/valid/images
-test: v04/test/images
-
-# class names
-names:
-  0: "scale"
