@@ -1,2 +1,2 @@
 # RCS_Dataset
-Image dataset for use in object detection of roseau cane scale
+This image dataset consists of high-resolution RGB images, stored in JPEG format, of internodes of roseau cane (_Phragmites australis_ (Cav.) Trin. Ex Steud.) infested by varying numbers of roseau cane scale (_Nipponaclerda biwakoensis_ (Kuwana,1907)) intended for use in object detection. Associated bounding box coordinates can be found for each dataset in their respective _labels_ folder, presented in standard YOLO format. Each image in the _original_ and _downsampled_ datasets depicts all infested portions of separate cane stalks collected from various sites across the Mississippi River Delta, whose coordinates are available in the _metadata_ folder.
